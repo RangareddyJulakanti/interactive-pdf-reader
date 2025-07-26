@@ -4,6 +4,6 @@
 ### 2.Generate HUGGINGFACEHUB_API_TOKEN from https://huggingface.co/settings/tokens and update in .env file 
 
 ### 3. Run the below commands.
-python -m venv venv
-pip install -r requirements.txt
-python -m streamlit run app.py
+3.1  python -m venv venv
+3.2. pip install -r requirements.txt
+3.3. python -m streamlit run app.py
